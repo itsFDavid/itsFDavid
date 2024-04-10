@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Francisco David
-- 👀 I’m interested in backend (NodeJS, JAVA Spring Boot, C, Assembler)
-- 🌱 I’m currently learning NodeJS -✨ I´m studing System Enginnering
+- 👀 I’m interested in backend (NodeJS)
+- 🌱 I’m currently learning NodeJS, C, Assembler -✨ I´m studing System Enginnering
 - 💞️ I’m looking to collaborate on projects for get experience
 - 📫 How to reach me fdavid04@icloud.com
