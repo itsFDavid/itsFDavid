@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Francisco David<br>👀 I’m interested in backend (NodeJS)<br>🌱 I’m currently learning NodeJS, C, Assembler -✨ I´m studing System Enginnering<br>💞️ I’m looking to collaborate on projects for get experience<br>📫 How to reach me fdavid04@icloud.com
+👋 Hi, I’m Francisco David<br>👀 I’m interested in backend (NodeJS)<br>🌱 I’m currently learning NodeJS, C, JavaScript -✨ I´m studing System Enginnering<br>💞️ I’m looking to collaborate on projects for get experience<br>📫 How to reach me fdavid04@icloud.com
 
 
 ## 🌐 Socials:
